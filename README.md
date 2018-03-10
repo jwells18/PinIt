@@ -1,6 +1,8 @@
 # PinIt
 PinIt is an image collection app inspired by Pinterest. 
 
+![alt text](https://github.com/jwells18/PinIt/blob/master/PinIt_Preview.GIF)
+
 # Disclaimer
 I created PinIt to learn Swift and showcase my abilities to potential clients and employers. DO NOT USE IT TO COPY PINTEREST. The initial version was created in a couple of weeks and thus lacks some features and contains a few known bugs. I do not intend to manage this repo,  but please feel free to fork it and expand upon it.
 

@@ -1,0 +1,153 @@
+/* 
+  Localizable.strings
+  WalkieTalkie
+
+  Created by Justin Wells on 2/12/18.
+  Copyright © 2018 SynergyLabs. All rights reserved.
+*/
+
+//Web URLs
+"HelpURL" = "https://";
+"PolicyURL" = "https://";
+"PersonalizedAdsURL" = "https://";
+
+//OnBoarding
+"TermsPolicyLoginAgreement" = "By continuing, you agree to PinIt's Terms of Service and Privacy Policy";
+"ContinueWithLogin" = "Continue with";
+"Email" = "Email";
+"Log in" = "Log in";
+"Forgot password?" = "Forgot password?";
+"Enter your email" = "Enter your email";
+"Enter your password" = "Enter your password";
+"Welcome to" = "Welcome to";
+"Create a password" = "Create a password";
+"What's your email?" = "What's your email?";
+"Email" = "Email";
+"Email Address" = "Email Address";
+"Email Address Error" = "Hmm...that doesn't look like an email address.";
+"Password Error" = "Oops! Your password needs 6+ characters.";
+"Password Too Simple Error" = "Your password can't be that simple.";
+"Full Name Error" = "And your name is...?";
+"What's your name?" = "What's your name?";
+"Create a password" = "Create a password";
+"Password" = "Password";
+"Age" = "Age";
+"Log in with" = "Log in with";
+"Next" = "Next";
+"Full name" = "Full name";
+"How old are you?" = "How old are you?";
+"Welcome to PinIt!" = "Welcome to PinIt!";
+"Invalid email" = "Invalid email";
+"Email already in use" = "Email already in use";
+"Password too weak" = "Password too weak";
+"Account disabled" = "Account disabled";
+"The password you entered is incorrect" = "The password you entered is incorrect";
+"Reset Password" = "Reset password";
+"Enter your email to send a password reset" = "Enter your email to send a password reset";
+"Password Reset sent" = "Password Reset sent";
+"Show password" = "Show password";
+
+//Profile
+"Search" = "Search";
+"Followers" = "Followers";
+"Following" = "Following";
+"Follow" = "Follow";
+"Unfollow" = "Unfollow";
+"Boards" = "Boards";
+"Pins" = "Pins";
+"No Boards" = "No Boards";
+"No Pins" = "No Pins";
+"No Topics" = "No Topics";
+"RefreshProfileVCNotification" = "RefreshProfileVCNotification";
+"Update profile picture" = "Update profile picture";
+"Create Pincode" = "Create Pincode";
+"Name" = "Name";
+"Username" = "Username";
+"About you" = "About you";
+"Edit Profile" = "Edit Profile";
+"Profile picture" = "Profile picture";
+"Edit profile picture" = "Edit profile picture";
+"Take a photo" = "Take a photo";
+"Pick from camera roll" = "Pick from camera roll";
+"No Followers" = "No Followers";
+"Followers" = "Followers";
+"No Following" = "No Following";
+"Following" = "Following";
+"Open           and tap           for ideas" = "Open           and tap           for ideas";
+"Pick Image" = "Pick Image";
+
+//Notifications
+"New Message" = "New Message";
+"Empty Notifications Table" = "No notifications yet.";
+"Empty Inbox Table" = "Send a message to plan projects, swap ideas and share your best discoveries.";
+"Hmm...this board wasn't found" = "Hmm...this board wasn't found";
+
+//Create
+"Create" = "Create";
+"Choose board" = "Choose board";
+"Create board" = "Create board";
+"Done" = "Done";
+"Add" = "Add";
+"Board name" = "Board name";
+"Add a board or Pin" = "Add a board or Pin";
+"Board" = "Board";
+"Pin" = "Pin";
+"Photo" = "Photo";
+"Website" = "Website";
+"Add a description" = "Add a description";
+"Enter link or search" = "Enter link or search";
+
+//Discover
+"People to follow" = "People to follow";
+"New in" = "New in";
+
+//Pin Detail
+"Add a comment" = "Add a comment";
+"More options" = "More options";
+"Delete Pin?" = "Delete Pin?";
+"Delete" = "Delete";
+"You won't be able to get it back." = "You won't be able to get it back.";
+"Cancel" = "Cancel";
+"Download image" = "Download image";
+"Copy" = "Copy";
+"Report pin" = "Report pin";
+"Edit pin" = "Edit pin";
+"Description" = "Description";
+"Save from Photos" = "Save from Photos";
+"Save" = "Save";
+"Send Pin" = "Send Pin";
+"Tried this Pin?" = "Tried this Pin?";
+"Be the first to share how it went" = "Be the first to share how it went";
+"Add photo or note" = "Add photo or note";
+
+//Settings
+"Get Help" = "Get Help";
+"Visit the help center" = "Visit the help center";
+"Contact a PinIt expert" = "Contact a PinIt expert";
+
+//Board Detail
+"Add collaborators" = "Add collaborators";
+"Choose from contacts" = "Choose from contacts";
+"Organize" = "Organize";
+"Send" = "Send";
+"Send Board" = "Send Board";
+
+//Toasts
+"PresentToastNotification" = "PresentToastNotification";
+"Created Board!" = "Created Board!";
+"Saved to" = "Saved to";
+"Saved!" = "Saved!";
+"Error updating profile" = "Error updating profile";
+"Error updating pin" = "Error updating pin";
+"Pin Deleted" = "Pin Deleted";
+"Downloaded!" = "Downloaded!";
+
+//Errors
+"Error" = "Error";
+"Error! Try again" = "Error! Try again";
+"No internet connection" = "No internet connection";
+"This feature is not available yet." = "This feature is not available yet.";
+"Sorry" = "Sorry";
+"Error creating board" = "Error creating board";
+"Error saving to" = "Error saving to";
+"Error downloading image" = "Error downloading image";
